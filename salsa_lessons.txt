@@ -10,6 +10,7 @@ Class 2
 Move 4
 Move 5, but done in another way
 Move 6
+Move 6 bis
 
 Class 3
 
