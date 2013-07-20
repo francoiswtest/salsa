@@ -7,5 +7,10 @@ Move 3
 Class 2
 
 Move 4
-Move 5
+Move 5, but done in another way
 Move 6
+
+Class 3
+
+Move 7
+Move 8
