@@ -1,6 +1,7 @@
 Class 1
 
-Move 1
+Move 1a
+Move 1b
 Move 2
 Move 3
 
